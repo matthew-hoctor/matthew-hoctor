@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on: projects related to the epidemiology of chronic disease
 - 📫 How to reach me: hoctor@pdx.edu
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I enjoy [editing wikipedia](https://en.wikipedia.org/wiki/User:Matthew_Hoctor)
 
 # Past Projects
 
