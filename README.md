@@ -1,10 +1,5 @@
 # About Me
 
-<!--
-**matthew-hoctor/matthew-hoctor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on: coursework for my masters in public health including longitudinal data analysis, HIV/AIDS epidemiology, & applied probability; and [updating the R Healthi Eating Index script](https://github.com/matthew-hoctor/hei2)
 - 🌱 I’m currently learning: R, epidemiology, biostatistics, python
 - 👯 I’m looking to collaborate on: projects related to the epidemiology of chronic disease
