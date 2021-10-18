@@ -1,11 +1,18 @@
 # About Me
 
-- 🔭 I’m currently working on: coursework for my masters in public health including longitudinal data analysis, HIV/AIDS epidemiology, & applied probability; and [updating the R Healthy Eating Index script](https://github.com/matthew-hoctor/hei2)
+- 🔭 I’m currently working on: coursework for my masters in public health including longitudinal data analysis, HIV/AIDS epidemiology, & applied probability
 - 🌱 I’m currently learning: R, epidemiology, biostatistics, Python
 - 👯 I’m looking to collaborate on: projects related to the epidemiology of chronic disease
 - 📫 How to reach me: hoctor@pdx.edu
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I enjoy [editing wikipedia](https://en.wikipedia.org/wiki/User:Matthew_Hoctor)
+
+# Current Projects
+
+ - [Applied Longitudinal Data Analysis](https://github.com/matthew-hoctor/BSTA519)
+ - [Probability Theory for Biostatistics](https://github.com/matthew-hoctor/BSTA550)
+ - Epidemiology of HIV/AIDS including [University of Washington's National HIV Curriculum](https://www.hiv.uw.edu/)
+ - [Updating the R Healthy Eating Index script](https://github.com/matthew-hoctor/hei2)
 
 # Past Projects
 
