@@ -10,6 +10,7 @@
 # Current Projects
 
  - [Applied Longitudinal Data Analysis](https://github.com/matthew-hoctor/BSTA519)
+   - [Budesonide vs nedocromil in CAMP](https://github.com/matthew-hoctor/Respiratory-Infection-Project)
  - [Probability Theory for Biostatistics](https://github.com/matthew-hoctor/BSTA550)
  - Epidemiology of HIV/AIDS including [University of Washington's National HIV Curriculum](https://www.hiv.uw.edu/)
  - [Updating the R Healthy Eating Index script](https://github.com/matthew-hoctor/hei2)
