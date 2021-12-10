@@ -13,6 +13,7 @@
    - [Budesonide vs nedocromil in CAMP](https://github.com/matthew-hoctor/Respiratory-Infection-Project)
  - [Probability Theory for Biostatistics](https://github.com/matthew-hoctor/BSTA550)
  - Epidemiology of HIV/AIDS including [University of Washington's National HIV Curriculum](https://www.hiv.uw.edu/)
+   - [Smoking Harm Reduction in PLWH Project Page](https://github.com/matthew-hoctor/Smoking-Harm-Reduction)
  - [Updating the R Healthy Eating Index script](https://github.com/matthew-hoctor/hei2)
 
 # Past Projects
