@@ -9,16 +9,15 @@
 
 # Current Projects
 
- - [Applied Longitudinal Data Analysis](https://github.com/matthew-hoctor/BSTA519)
-   - [Budesonide vs nedocromil in CAMP](https://github.com/matthew-hoctor/Respiratory-Infection-Project)
- - [Probability Theory for Biostatistics](https://github.com/matthew-hoctor/BSTA550)
- - Epidemiology of HIV/AIDS including [University of Washington's National HIV Curriculum](https://www.hiv.uw.edu/)
-   - [Smoking Harm Reduction in PLWH Project Page](https://github.com/matthew-hoctor/Smoking-Harm-Reduction)
+ - [Statistical Learning & Data Science](https://github.com/matthew-hoctor/BSTA522)
+ - Qualitative Methods
+ - [University of Washington's National HIV Curriculum](https://www.hiv.uw.edu/)
  - [Updating the R Healthy Eating Index script](https://github.com/matthew-hoctor/hei2)
 
 # Past Projects
 
+- Applied Longitudinal Data Analysis: [Budesonide vs nedocromil using CAMP data](https://github.com/matthew-hoctor/Respiratory-Infection-Project)
+- Epidemiology of HIV/AIDS: [Smoking Harm Reduction in PLWH](https://github.com/matthew-hoctor/Smoking-Harm-Reduction)
 - [Analysis of cannabis use on BP using NHANES data](https://github.com/matthew-hoctor/Marijuana-HTN---EPI536)
 - [Mediation analysis of the effect of maternal smoking on birth weight](https://github.com/matthew-hoctor/BSTA512-Project)
 - [Risk factors for multiple falls from MrOS data](https://github.com/matthew-hoctor/BSTA513-Group6-project)
-- [Calculating the Healthy Eating Index for NHANES data in R](https://github.com/matthew-hoctor/hei2)
