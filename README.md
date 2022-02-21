@@ -11,7 +11,7 @@
 
  - [Statistical Learning & Data Science](https://github.com/matthew-hoctor/BSTA522)
  - Qualitative Methods
- - [Cybernetic analysis of the Indian Health Service](https://docs.google.com/document/d/1w09FFrJdCCxiJ49XKAAZ0l4M6cumREgk6LKYoB2KrIQ/edit)
+ - [Cybernetic Analysis of the Indian Health Service](https://docs.google.com/document/d/1w09FFrJdCCxiJ49XKAAZ0l4M6cumREgk6LKYoB2KrIQ/)
  - [University of Washington's National HIV Curriculum](https://www.hiv.uw.edu/)
  - [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2022) 2022 Course
  - [Updating the R Healthy Eating Index script](https://github.com/matthew-hoctor/hei2)
