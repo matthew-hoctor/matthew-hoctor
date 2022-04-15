@@ -25,6 +25,7 @@
  - Health Systems Organization: [A Cybernetic Analysis of the Indian Health Service](https://docs.google.com/document/d/1w09FFrJdCCxiJ49XKAAZ0l4M6cumREgk6LKYoB2KrIQ/)
  - Applied Longitudinal Data Analysis: [Budesonide vs nedocromil using CAMP data](https://github.com/matthew-hoctor/Respiratory-Infection-Project)
  - Epidemiology of HIV/AIDS: [Smoking Harm Reduction in PLWH](https://github.com/matthew-hoctor/Smoking-Harm-Reduction)
+ - Chronic Disease Epidemiology: [Resistant HTN - Directions for Further Research](https://docs.google.com/document/d/1bjYx40d9Mizrq9GW-66nM0O1EufY8ojladDPcjmhPV0/edit?usp=sharing)
  - [Analysis of cannabis use on BP using NHANES data](https://github.com/matthew-hoctor/Marijuana-HTN---EPI536)
  - [Mediation analysis of the effect of maternal smoking on birth weight](https://github.com/matthew-hoctor/BSTA512-Project)
  - [Risk factors for multiple falls from MrOS data](https://github.com/matthew-hoctor/BSTA513-Group6-project)
