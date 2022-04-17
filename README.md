@@ -11,7 +11,7 @@
 
  - MPH practice experience: [HAV/HBV Screening & Vaccination Practices in PWSUD](https://github.com/matthew-hoctor/HAV-HBV)
  - [Environmental Health](https://github.com/matthew-hoctor/ESHH511): 
-   - [Reducing the Warming Effect of Asthma Care in the U.S.]()
+   - [Reducing the Warming Effect of Asthma Care in the U.S.](https://docs.google.com/document/d/17ZraAnLnqFSJeaeSBb-zuxwyYlx30SAXlyRvj_9o0Mg/edit)
    - [Weekly blog on environmental health topics](https://sakai.ohsu.edu/portal/site/ESHH-511-OL-32492-Sp22/tool/83786476-2285-4e39-bd25-c7c610e65854/blog_view?blogid=8af1c3607fb63988017fd30342df0003)
  - [University of Washington's National HIV Curriculum](https://www.hiv.uw.edu/)
  - [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2022) 2022 Course
