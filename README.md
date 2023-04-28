@@ -28,4 +28,3 @@
  - [Effect of cannabis use on BP, an Analysis of NHANES Data](https://github.com/matthew-hoctor/Marijuana-HTN---EPI536)
  - [Mediation analysis of the effect of maternal smoking on birth weight](https://github.com/matthew-hoctor/BSTA512-Project)
  - [Risk factors for multiple falls in men in the MrOS study](https://github.com/matthew-hoctor/BSTA513-Group6-project)
- - [University of Washington's National HBV Curriculum](https://www.hepatitisb.uw.edu/)
