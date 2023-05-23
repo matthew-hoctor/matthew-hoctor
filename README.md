@@ -28,4 +28,4 @@
  - [Effect of cannabis use on BP, an Analysis of NHANES Data](https://github.com/matthew-hoctor/Marijuana-HTN---EPI536)
  - [Mediation analysis of the effect of maternal smoking on birth weight](https://github.com/matthew-hoctor/BSTA512-Project)
  - [Risk factors for multiple falls in men in the MrOS study](https://github.com/matthew-hoctor/BSTA513-Group6-project)
- - [https://docs.google.com/presentation/d/1HJhqOJX8uQ5KFuclBJ3vQ4ZikPioclw_VsiHGuMAwaA/view](Post-Mifeprex Medication Abortions?) a brief presentation for Portland DSA health justice working group
+ - [Post-Mifeprex Medication Abortions?](https://docs.google.com/presentation/d/1HJhqOJX8uQ5KFuclBJ3vQ4ZikPioclw_VsiHGuMAwaA/view) a brief presentation for Portland DSA health justice working group
