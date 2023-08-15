@@ -1,11 +1,11 @@
 # About Me
 
-- 🔭 I’m currently working on: coursework & practice experience for my masters in public health including Concepts in Environmental Health, and my practice experience project on HAV/HBV vaccination & screening; I do medication therapy management (MTM) as my day job
-- 🌱 I’m currently learning: HBV epidemiology & clinical care, R, epidemiology, biostatistics, python, SAS
+- 🔭 I’m currently working on: coursework & practice experience for my masters in public health; I work as a clinical pharmacist as my day job
+- 🌱 I’m currently learning: R, epidemiology, biostatistics, python
 - 👯 I’m looking to collaborate on: projects related to the epidemiology of chronic disease
 - 📫 How to reach me: hoctor@pdx.edu
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact:s I enjoy [editing wikipedia](https://en.wikipedia.org/wiki/User:Matthew_Hoctor), and my CV is written in R Markdown, and can be found in [this repository](https://github.com/matthew-hoctor/CV)
+- ⚡ Fun fact:s I enjoy [editing wikipedia](https://en.wikipedia.org/wiki/User:Matthew_Hoctor), and my CV is written in R markdown, and can be found in [this repository](https://github.com/matthew-hoctor/CV)
 
 # Current Projects
 
