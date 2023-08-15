@@ -23,11 +23,10 @@
  - [Statistical Learning & Data Science](https://github.com/matthew-hoctor/BSTA522)
  - Qualitative Methods: [Yoga Practice Among Veterans:  A Qualitative Study of Provider Perspectives](https://github.com/matthew-hoctor/qualitative)
  - Health Systems Organization: [A Cybernetic Analysis of the Indian Health Service](https://docs.google.com/document/d/1w09FFrJdCCxiJ49XKAAZ0l4M6cumREgk6LKYoB2KrIQ/)
- - Applied Longitudinal Data Analysis: [Budesonide vs nedocromil using CAMP data](https://github.com/matthew-hoctor/Respiratory-Infection-Project)
+ -  [Budesonide vs nedocromil using CAMP data](https://github.com/matthew-hoctor/Respiratory-Infection-Project), a course project for [Applied Longitudinal Data Analysis](https://github.com/matthew-hoctor/BSTA519)
  - Epidemiology of HIV/AIDS: [Smoking Harm Reduction in PLWH](https://github.com/matthew-hoctor/Smoking-Harm-Reduction)
  - Chronic Disease Epidemiology: [Resistant HTN - Directions for Further Research](https://docs.google.com/document/d/1bjYx40d9Mizrq9GW-66nM0O1EufY8ojladDPcjmhPV0/edit?usp=sharing)
- - [Longitudinal Data Analysis](https://github.com/matthew-hoctor/BSTA519)
- - [Effect of cannabis use on BP, an Analysis of NHANES Data](https://github.com/matthew-hoctor/Marijuana-HTN---EPI536), a group project for my [Epi Data](https://github.com/matthew-hoctor/EPI536-Assignments) course
+ - [Effect of cannabis use on BP, an Analysis of NHANES Data](https://github.com/matthew-hoctor/Marijuana-HTN---EPI536), a course project for [Epi Data](https://github.com/matthew-hoctor/EPI536-Assignments)
  - [Mediation analysis of the effect of maternal smoking on birth weight](https://github.com/matthew-hoctor/BSTA512-Project)
  - [Risk factors for multiple falls in men in the MrOS study](https://github.com/matthew-hoctor/BSTA513-Group6-project)
  - Causal Inference: [Destructive Scheduling Practices & Sleep](https://github.com/matthew-hoctor/EPI514SLEEP)
